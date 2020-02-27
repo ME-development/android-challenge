@@ -11,11 +11,13 @@ When there are multiple choices of solution or uses of 3rd-party packages, pleas
 
 Please deliver a solution that meets requirements below.
 
--   Demonstrate knowlege in Kotlin programming language
+-   Demonstrate knowlege in Kotlin and Java programming language
 -   Demonstrate knowlege in development tools and processes, for example
 
     -   Android Studio
+    -   Write an app, build & run processes, debug, profile, test, and publish
     -   Visual layout editor
+    -   Build app fron CLI
 
 -   Demonstrate integration ability with re-usable components, for example:
 
