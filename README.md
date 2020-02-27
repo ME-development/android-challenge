@@ -17,7 +17,7 @@ Please deliver a solution that meets requirements below.
     -   Android Studio
     -   Write an app, build & run processes, debug, profile, test, and publish
     -   Visual layout editor
-    -   Build app fron CLI
+    -   Build app from CLI
 
 -   Demonstrate integration ability with re-usable components, for example:
 
