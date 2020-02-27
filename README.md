@@ -42,7 +42,7 @@ Please deliver a solution that meets requirements below.
 
 ## Time & Effort
 
-This code challenge should require not more than 3 - 4 hours to complete.
+There is no time limit for this code challenge. However, this code challenge should require not more than 3 - 4 hours of your time to complete.
 
 ## The Problem
 
